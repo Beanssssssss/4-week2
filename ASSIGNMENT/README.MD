@@ -18,7 +18,7 @@
 
 ### 3단계: Pull Request 요청
 - `HateSlop` 메인 레포지토리로 **Pull Request(PR)**를 보냅니다.
-- PR 제목 형식: `[Week2] 본인이름`
+- PR 제목 형식: `week2_본인이름`
 
 ---
 
